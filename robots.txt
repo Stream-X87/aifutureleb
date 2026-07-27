@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://stream-x87.github.io/aifutureleb/sitemap.xml

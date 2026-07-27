@@ -1,0 +1,22 @@
+{
+  "name": "AI Future Lab",
+  "short_name": "AI Future Lab",
+  "description": "AI Future Lab provides the latest Artificial Intelligence news, AI tools, technology tutorials, and future innovations.",
+  "start_url": "/aifutureleb/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
