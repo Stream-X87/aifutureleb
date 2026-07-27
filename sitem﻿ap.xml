@@ -9,38 +9,39 @@
         <priority>1.0</priority>
     </url>
 
-<url>
-    <loc>https://stream-x87.github.io/aifutureleb/about.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-</url>
+    <url>
+        <loc>https://stream-x87.github.io/aifutureleb/about.html</loc>
+        <lastmod>2026-07-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 
-<url>
-    <loc>https://stream-x87.github.io/aifutureleb/privacy.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-</url>
+    <url>
+        <loc>https://stream-x87.github.io/aifutureleb/privacy.html</loc>
+        <lastmod>2026-07-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
 
-<url>
-    <loc>https://stream-x87.github.io/aifutureleb/disclaimer.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-</url>
+    <url>
+        <loc>https://stream-x87.github.io/aifutureleb/disclaimer.html</loc>
+        <lastmod>2026-07-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
 
-<url>
-    <loc>https://stream-x87.github.io/aifutureleb/terms.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-</url>
+    <url>
+        <loc>https://stream-x87.github.io/aifutureleb/terms.html</loc>
+        <lastmod>2026-07-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
 
-<url>
-    <loc>https://stream-x87.github.io/aifutureleb/contact.html</loc>
-    <lastmod>2026-07-27</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-</url>
+    <url>
+        <loc>https://stream-x87.github.io/aifutureleb/contact.html</loc>
+        <lastmod>2026-07-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
 </urlset>
